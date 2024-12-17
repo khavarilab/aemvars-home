@@ -115,7 +115,7 @@ dash <-  dashboardPage(
             tags$p(''),
             tags$br(),
             tags$h4('Contact Us'),
-            tags$p('For questions or feedback please email: suhas <dot> srinivasan <at> stanford <dot> edu'),
+            tags$p('For questions or feedback please email: feedback <underscore> aemvars <at> stanford <dot> edu'),
             tags$a(href = 'https://khavarilab.stanford.edu/', 'Developed at the Khavari Lab', target = '_blank')
           )
         
